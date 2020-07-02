@@ -1,3 +1,11 @@
 {
-  "masterVersionFile":"https://raw.githubusercontent.com/Algester/azurlaneirisvichyaportraitpack/master/mod/automatic_orders.version",
+  "masterVersionFile":"https://raw.githubusercontent.com/Algester/azurlaneirisvichyaportraitpack/master/azurlaneirisvichyaportrait.version",
+  "modName":"Azur Lane IrisVichya Portrait Pack",
+  "modThreadId":17251,
+  "modVersion":
+    {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    }
 }
